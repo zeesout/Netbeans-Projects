@@ -19,11 +19,11 @@ Dibangun menggunakan NetBeans dan MySQL, aplikasi ini menyimpan dan mengelola da
  Sistem  autentifikasi pengguna untuk  meningkatkan keamanan dan mengoptimalkan pengelolaan akses.
  
 2.**🧾Form Master**
- -Form Data Peserta KB : Manajemen Data Peserta KB.
- -Form Data Keluarga : Manajemen Data keluarga.
- -Form Data Jenis Layanan : Manajemen Data Jenis Layanan KB yang tersedia.
- -Form Data Petugas Kesehatan : Manajemen Petugas Data Petugas Kesehatan.
- -Form Data Pemeriksaan Peserta : Pencatatan Kesehatan Peserta KB.
+ - Form Data Peserta KB : Manajemen Data Peserta KB.
+ - Form Data Keluarga : Manajemen Data keluarga.
+ - Form Data Jenis Layanan : Manajemen Data Jenis Layanan KB yang tersedia.
+ - Form Data Petugas Kesehatan : Manajemen Petugas Data Petugas Kesehatan.
+ - Form Data Pemeriksaan Peserta : Pencatatan Kesehatan Peserta KB.
   
 3.**📊 Transaksi**
   - Form Pendaftaraan Peserta KB : Pencatatan Peserta yang mendaftar Program KB (keluarga berencana).
