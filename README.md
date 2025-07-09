@@ -28,7 +28,7 @@ Dibangun menggunakan NetBeans dan MySQL, aplikasi ini menyimpan dan mengelola da
 3.**📊 Transaksi**
   - Form Pendaftaraan Peserta KB : Pencatatan Peserta yang mendaftar Program KB (keluarga berencana).
   - Form Pembayaran Jenis Layanan KB : Pencatatan Pembayaran Jenis Layanan  KB yang digunakan.
-  - 
+    
 4.**🖨️ Laporan**
   - Laporan Peserta KB
   - Laporan Pemakaian Alat
